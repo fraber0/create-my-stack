@@ -1,6 +1,6 @@
 {
   "name": "@fraber0/create-my-stack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI scaffolding tool for Vite + Tailwind v4 + Supabase + Docker projects",
   "type": "module",
   "bin": {
