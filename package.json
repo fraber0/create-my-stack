@@ -1,10 +1,10 @@
 {
   "name": "@fraber0/create-my-stack",
   "version": "1.0.0",
-  "description": "CLI scffolding tool for Vite + Tailwind v4 + Supabase + Docker projects",
+  "description": "CLI scaffolding tool for Vite + Tailwind v4 + Supabase + Docker projects",
   "type": "module",
   "bin": {
-    "create-my-stack": "./bin/cli.js"
+    "create-my-stack": "bin/cli.js"
   },
   "files": [
     "bin",
@@ -21,7 +21,7 @@
     "supabase",
     "docker"
   ],
-  "author": "Francesco Berra",
+  "author": "fraber0",
   "license": "MIT",
   "engines": {
     "node": ">=18"
